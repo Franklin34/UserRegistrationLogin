@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Registro_de_Usuarios_ASP_NET
+build_property.ProjectDir = C:\Users\frank\OneDrive\Escritorio\Registro de Usuarios ASP NET\Registro de Usuarios ASP NET\
